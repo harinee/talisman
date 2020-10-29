@@ -20,7 +20,6 @@ You can invoke talisman in interactive mode by either of the 2 ways:
  ><br>ii. You will see `TALISMAN_INTERACTIVE` variable under `# >>> talisman >>>`
  ><br>iii. If not already set to true, add `export TALISMAN_INTERACTIVE=true`
  ><br>iv. Don't forget to save and source the file
-
 2.  Alternatively, you can also invoke the interactive mode by using the CLI utility  
    (for using pre-commit hook)  
    ```talisman -i -g pre-commit```
